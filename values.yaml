@@ -1,0 +1,5 @@
+kube_proxy_mode: ipvs
+ip_family: ipv4
+workers:
+  - a
+  - a
